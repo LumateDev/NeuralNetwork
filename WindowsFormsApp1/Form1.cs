@@ -132,7 +132,7 @@ namespace WindowsFormsApp1
             numbericValue = Decimal.ToInt32(numericUpDown1.Value);
         }
 
-        private void buttonWrite_Click(object sender, EventArgs e)
+        private void buttonTrain_Click(object sender, EventArgs e)
         {
             string pathDirMyApp = AppDomain.CurrentDomain.BaseDirectory;
             string strTrainEx = numericUpDown1.Value.ToString() + ":";
@@ -142,6 +142,19 @@ namespace WindowsFormsApp1
             }
             strTrainEx += "\n";
             pathDirMyApp += "buttonSaveTrainSample.txt";
+            File.AppendAllText(pathDirMyApp, strTrainEx);
+        }
+
+        private void buttonTest_Click(object sender, EventArgs e)
+        {
+            string pathDirMyApp = AppDomain.CurrentDomain.BaseDirectory;
+            string strTrainEx = numericUpDown1.Value.ToString() + ":";
+            for (int i = 0; i < inputData.Length; i++)
+            {
+                strTrainEx += " " + inputData[i].ToString();
+            }
+            strTrainEx += "\n";
+            pathDirMyApp += "buttonSaveTestSample.txt";
             File.AppendAllText(pathDirMyApp, strTrainEx);
         }
     }

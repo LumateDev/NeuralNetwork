@@ -1,12 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
+
 
 namespace WindowsFormsApp1.src
 {
-    internal class InputLayer
+    class InputLayer
     {
+
+        private Random random = new Random();
+
+        // поля 
+
+        private (double[], int)[] trainSet = new (double[], int)[100]; 
+
+
+        public (double[], int)[] TrainSet { get => trainSet; }
+
+        // конструктор
+        public InputLayer(NetworkMode nm) {
+            // Вернёмся позже
+        }
     }
 }

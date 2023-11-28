@@ -1,5 +1,7 @@
 ﻿
 
+using System.Drawing.Printing;
+
 namespace WindowsFormsApp1.src
 {
     class OutputLayer : Layer
@@ -29,13 +31,13 @@ namespace WindowsFormsApp1.src
         {
             double[] gr_sum = new double[numOfNeurons]; // сумма градиентов 
 
-            for (int j = 0; j < gr_sum.Length; j++) // Вычисление локальных градиентов 
+            for (int j = 0; j < gr_sum.Length; j++) // Вычисление градинетных сумм выходного слоя
             {
                 double sum = 0;
 
                 for (int k = 0; k < numOfNeurons; k++)
                 {
-                    sum += Neurons[k].Weights[j] * Neurons[k].Derevative * gr_sums[k];
+                    sum += Neurons[k].Weights[j] * errors[k]; // не уверен
                 }
 
                 gr_sum[j] = sum;
@@ -49,14 +51,14 @@ namespace WindowsFormsApp1.src
                     double deltaW;
                     if (n == 0)
                     {
-                        deltaW = momentum * lastdeltaweights[i, 0] + learningRade * Neurons[i].Derevative * gr_sums[i];
+                        deltaW = momentum * lastdeltaweights[i, 0] + learningRade * errors[i];
                     }
                     else
                     {
                         deltaW = momentum * lastdeltaweights[i, n] + learningRade * Neurons[i].Inputs[n - 1]
-                            * Neurons[i].Derevative * gr_sums[i];
+                            * errors[i];
                     }
-
+             
                     lastdeltaweights[i, n] = deltaW;
                     Neurons[i].Weights[n] += deltaW; // Коррекци весов 
                 }
