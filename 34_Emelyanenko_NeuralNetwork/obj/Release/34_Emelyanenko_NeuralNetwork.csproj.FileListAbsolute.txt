@@ -1,0 +1,11 @@
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\bin\Release\34_Emelyanenko_NeuralNetwork.exe.config
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\bin\Release\34_Emelyanenko_NeuralNetwork.exe
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\bin\Release\34_Emelyanenko_NeuralNetwork.pdb
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\obj\Release\34_Emelyanenko_NeuralNetwork.csproj.AssemblyReference.cache
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\obj\Release\34_Emelyanenko_NeuralNetwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\obj\Release\_34_Emelyanenko_NeuralNetwork.Form1.resources
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\obj\Release\_34_Emelyanenko_NeuralNetwork.Properties.Resources.resources
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\obj\Release\34_Emelyanenko_NeuralNetwork.csproj.GenerateResource.cache
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\obj\Release\34_Emelyanenko_NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\obj\Release\34_Emelyanenko_NeuralNetwork.exe
+C:\Users\Emel\Desktop\34_Emelyanenko_NeuralNetwork\obj\Release\34_Emelyanenko_NeuralNetwork.pdb

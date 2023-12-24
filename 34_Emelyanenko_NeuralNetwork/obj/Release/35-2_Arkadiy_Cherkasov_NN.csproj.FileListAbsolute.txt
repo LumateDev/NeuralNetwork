@@ -1,0 +1,11 @@
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\bin\Release\35-2_Cherkasov_Arkadiy_NN.exe.config
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\bin\Release\35-2_Cherkasov_Arkadiy_NN.exe
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\bin\Release\35-2_Cherkasov_Arkadiy_NN.pdb
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\obj\Release\35-2_Arkadiy_Cherkasov_NN.csproj.AssemblyReference.cache
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\obj\Release\35-2_Arkadiy_Cherkasov_NN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\obj\Release\_35_2_Ayrapetov_NN.Form1.resources
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\obj\Release\_35_2_Cherkasov_Arkadiy_NN.Properties.Resources.resources
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\obj\Release\35-2_Arkadiy_Cherkasov_NN.csproj.GenerateResource.cache
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\obj\Release\35-2_Arkadiy_Cherkasov_NN.csproj.CoreCompileInputs.cache
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\obj\Release\35-2_Cherkasov_Arkadiy_NN.exe
+C:\Users\Arkadiy\Desktop\35-2_Cherlasov_Arkadiy\35-2_Cherkasov_Arkadiy\obj\Release\35-2_Cherkasov_Arkadiy_NN.pdb
